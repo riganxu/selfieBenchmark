@@ -9,8 +9,6 @@
 
 ![selfie](https://github.com/riganxu/selfieBenchmark/blob/master/SelfieImg/selfie-benchmark.jpg)
 
-![test](https://github.com/riganxu/selfieBenchmark/tree/master/SelfieImg/selfie-benchmark.jpg)
-
 ### The repository includes:
 
 1. selfie.jpg
