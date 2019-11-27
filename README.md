@@ -2,10 +2,10 @@
 
 “[The world’s largest selfie](https://www.gsmarena.com/nokia_lumia_730_captures_worlds_largest_selfie-news-10285.php)” captured by the 5MP camera of the Lumia 730 cellphone is widely used to evaluated the performance of unconstrained face detection algorithms. But by now, there is no any related benchmark about it. In order to facilitate the comparation among different methods on this picture, we annotated it with the labelling tool named [labelImg](https://pypi.org/project/labelImg/). 
 
-| Author<br />      | Xu, Guangzhu; Qu, Jinshan <br />Wan, Qiubo;  Zhu, Zequn | R.N.J. Veldhuis<br />L.J. Spreeuwers<br /> |
-| ----------------- | ------------------------------------------------------- | ------------------------------------------ |
-| Email<br /><br /> | xgz@ctgu.edu.cn ; 2014111145@ctgu.edu.cn                | r.n.j.veldhuis@utwente.nl                  |
-| Affiliation       | China Three Gorges University                           | Twente University, the Netherlands         |
+| Author<br />      |   Xu, Guangzhu; Qu, Jinshan <br />Wan, Qiubo;  Zhu, Zequn    | R.N.J. Veldhuis<br />L.J. Spreeuwers<br /> |
+| ----------------- | :----------------------------------------------------------: | :----------------------------------------: |
+| Email<br /><br /> | xgz@ctgu.edu.cn; 2014111145@ctgu.edu.cn<br />localuserctg@163.com; 2014111111@ctgu.edu.cn |         r.n.j.veldhuis@utwente.nl          |
+| Affiliation       |                China Three Gorges University                 |     Twente University, the Netherlands     |
 
 ![selfie](https://github.com/riganxu/selfieBenchmark/blob/master/SelfieImg/selfie-benchmark.jpg)
 
