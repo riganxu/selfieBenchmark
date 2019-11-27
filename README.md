@@ -7,13 +7,13 @@
 | Email<br /><br />        | xgz@ctgu.edu.cn                                              | r.n.j.veldhuis@utwente.nl                   |
 | Affiliation              | China Three Gorges University                                | Twente University, the Netherlands          |
 
-![selfie](D:\Git-rigan\selfieBenchmark\SelfieImg\selfie-benchmark.jpg)
+![selfie](<https://github.com/riganxu/selfieBenchmark/tree/master/SelfieImg/selfie-benchmark.jpg)
 
 ### The repository includes:
 
-1. selfie.jpg
-2. Benchmark
-3. evaluation scripts
+1. selfie.jpg
+2. Benchmark
+3. evaluation scripts
 
 ## About the benchmark
 
