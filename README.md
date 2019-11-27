@@ -7,7 +7,9 @@
 | Email<br /><br /> | xgz@ctgu.edu.cn ; 2014111145@ctgu.edu.cn                | r.n.j.veldhuis@utwente.nl                  |
 | Affiliation       | China Three Gorges University                           | Twente University, the Netherlands         |
 
-![selfie](https://github.com/riganxu/selfieBenchmark/tree/master/SelfieImg/selfie-benchmark.jpg)
+![selfie](https://github.com/riganxu/selfieBenchmark/blob/master/SelfieImg/selfie-benchmark.jpg)
+
+![test](https://github.com/riganxu/selfieBenchmark/tree/master/SelfieImg/selfie-benchmark.jpg)
 
 ### The repository includes:
 
